@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabyasachi1889&label=Profile%20views&color=0e75b6&style=flat" alt="sabyasachi1889" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabyasachi1889" alt="sabyasachi1889" /></a> </p>
-
 - 🔭 I’m currently working on **Biometric System Project based on Cyber Security**
 
 - 🌱 I’m currently learning **Java, Python, Javascript, C++**
